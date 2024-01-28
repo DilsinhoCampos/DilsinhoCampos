@@ -1,5 +1,5 @@
 📊 Data Scientist | Machine Learning | Computer Vision |
-<img alt="da Imagem" width="20%" width="20%" src="https://github.com/DilsinhoCampos/DilsinhoCampos/blob/main/logo_git.png">
+<img alt="da Imagem" width="50%" width="20%" src="https://github.com/DilsinhoCampos/DilsinhoCampos/blob/main/logo_git.png">
   
 # Portfólio de Engenheiro de Visão Computacional
 

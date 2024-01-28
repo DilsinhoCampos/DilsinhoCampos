@@ -1,6 +1,6 @@
 📊 Data Scientist | Machine Learning | Computer Vision |
-<img alt="da Imagem" width="20%" width="20%" src="https://github.com/DilsinhoCampos/DilsinhoCampos/img/logo_git.png"> 
-
+<img alt="da Imagem" width="20%" width="20%" src="https://github.com/DilsinhoCampos/DilsinhoCampos/blob/main/logo_git.png">
+  
 # Portfólio de Engenheiro de Visão Computacional
 
 Olá! Sou Dilson, um Engenheiro de Visão Computacional apaixonado com experiência, especializado em projetos de detecção de objetos em tempo real, segmentação de imagens e reconhecimento facial. Minha abordagem combina criatividade e pragmatismo para criar soluções inovadoras com ferramentas como OpenCV, TensorFlow e PyTorch. Estou atualmente focado na interseção da visão computacional com outras disciplinas e em projetos desafiadores em ambientes de baixa luminosidade. Além do código, adoro compartilhar conhecimento em workshops e conferências. Se você estiver interessado em colaborações ou quiser discutir ideias, entre em contato pelo email: dilscampos@hotmail.com ou visite meu perfil no LinkedIn https://www.linkedin.com/in/dilson-campos-79772b25/.

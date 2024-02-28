@@ -7,11 +7,15 @@ Olá! Sou Dilson, um Cientista de Dados e Engenheiro de Visão Computacional apa
 
 ### Principais Projetos
 
+
+
 ### Detecção de Objetos em Tempo Real
 
 Neste projeto, implementei um modelo de detecção de objetos usando YOLO (You Only Look Once). O modelo é capaz de detectar múltiplos objetos em tempo real em fluxos de vídeo e apresenta as caixas delimitadoras em tempo real.
 
 [Link para o Projeto](link_para_o_repositorio)
+
+
 
 ### Segmentação de Imagem por Semântica
 
@@ -19,11 +23,15 @@ Neste projeto, explorei técnicas de segmentação de imagens para separar objet
 
 [Link para o Projeto](link_para_o_repositorio)
 
+
+
 ### Reconhecimento Facial com Deep Learning
 
 Neste projeto, desenvolvi um sistema de reconhecimento facial usando redes neurais convolucionais. O sistema é capaz de identificar faces em imagens e associá-las a indivíduos conhecidos, demonstrando alta precisão.
 
 [Link para o Projeto](link_para_o_repositorio)
+
+
 
 ## Como Executar os Projetos
 
